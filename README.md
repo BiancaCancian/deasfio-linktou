@@ -11,7 +11,9 @@ https://github.com/user-attachments/assets/460284ff-278f-4706-a898-e4170218de25
 - **Resetar**
 - **Design Responsivo**
 
-![challenge](https://github.com/user-attachments/assets/d6825b1a-6f51-47fa-872f-9b0025091e0a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6825b1a-6f51-47fa-872f-9b0025091e0a" alt="challenge">
+</p>
 
 ## Tecnologias Usadas👩🏾‍💻
 
