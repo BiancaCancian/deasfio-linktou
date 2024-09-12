@@ -22,8 +22,18 @@ https://github.com/user-attachments/assets/460284ff-278f-4706-a898-e4170218de25
 - **TypeScript**
 - **CSS**
 
-## Como iniciar💻
+## Requisitos🔴
 
+**Realizar instalação do Node.js**
+
+Após a instalação, verifique se o Node.js e o npm foram instalados corretamente executando os seguintes comandos no terminal:
+
+ ```bash
+   node -v
+   npm -v
+ ```
+
+## Como iniciar💻
 
 1. **Clone o Repositório**
 
