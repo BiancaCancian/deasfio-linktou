@@ -70,7 +70,7 @@ button:hover {
     text-align: center;
 }
 
-/* Responsivo */
+
 @media (max-width: 768px) {
     .counter {
         margin: 10rem auto;
