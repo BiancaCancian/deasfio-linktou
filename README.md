@@ -9,6 +9,9 @@ https://github.com/user-attachments/assets/460284ff-278f-4706-a898-e4170218de25
 - **Incrementar**
 - **Decrementar** 
 - **Resetar**
+- **Design Responsivo**
+
+![responsividade](https://github.com/user-attachments/assets/d9b40749-9a58-4477-adc0-75274746ff79)
 
 
 ## Tecnologias Usadas👩🏾‍💻
