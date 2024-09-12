@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/3ab86ecc-cac2-4113-93a8-a7178ef470ed
    npm run dev
    ```
 
-   A aplicação estará disponível em [http://localhost:3000](http://localhost:3000).
+  Link do projeto: https://github.com/BiancaCancian/deasfio-linktou.git
 
 ## Funcionalidades
 
