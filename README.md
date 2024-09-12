@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/3ab86ecc-cac2-4113-93a8-a7178ef470ed
    npm run dev
    ```
 
-  Link do projeto: https://github.com/BiancaCancian/deasfio-linktou.git
+  Link do projeto: https://biancacancian.github.io/deasfio-linktou/
 
 ## Funcionalidades
 
