@@ -2,7 +2,14 @@
 
 Implemente uma pequena aplicação de contagem que permita ao usuário incrementar, decrementar e resetar um contador exibido na tela.
 
-https://github.com/user-attachments/assets/3ab86ecc-cac2-4113-93a8-a7178ef470ed
+https://github.com/user-attachments/assets/460284ff-278f-4706-a898-e4170218de25
+
+## Funcionalidades
+
+- **Incrementar**
+- **Decrementar** 
+- **Resetar**
+
 
 ## Tecnologias Usadas👩🏾‍💻
 
@@ -45,12 +52,3 @@ https://github.com/user-attachments/assets/3ab86ecc-cac2-4113-93a8-a7178ef470ed
    ```bash
    npm run dev
    ```
-
-  Link do projeto: https://biancacancian.github.io/deasfio-linktou/
-
-## Funcionalidades
-
-- **Incrementar**
-- **Decrementar** 
-- **Resetar**
-
