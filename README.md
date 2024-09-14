@@ -2,7 +2,7 @@
 
 Implemente uma pequena aplicação de contagem que permita ao usuário incrementar, decrementar e resetar um contador exibido na tela.
 
-https://github.com/user-attachments/assets/460284ff-278f-4706-a898-e4170218de25
+https://github.com/user-attachments/assets/05718d07-a45d-412d-b22a-01d3bfa3db3c
 
 ## Funcionalidades
 
@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/460284ff-278f-4706-a898-e4170218de25
 - **Design Responsivo**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d6825b1a-6f51-47fa-872f-9b0025091e0a" alt="challenge">
+  <img src="https://github.com/user-attachments/assets/e7924b2d-c219-4634-a682-3f1264e69c3d" alt="challenge">
 </p>
 
 ## Tecnologias Usadas👩🏾‍💻
